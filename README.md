@@ -7,6 +7,9 @@ Subject of Interest :-
 Air, Space, Science, Physics, Computer Science, Artificial Intelligence, Technologies of future
 contact source :- 
     Email - devraushansingh@gmail.com
-Current Status - Preparing for Joint Entrance Exam 
-    
+Current Status - 
+    Preparing for Joint Entrance Exam 
+    Learning DSA
+    Learning Backend
+    Competitive programming
 # devraushan
