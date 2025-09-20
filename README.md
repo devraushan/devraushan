@@ -6,7 +6,7 @@
 Hey There,  
 Let's work together to make the world better each day.
 ## 🚀 About Me
-* Sophomore at IIIT Bhagalpur
+* 3rd year UG at IIIT Bhagalpur
 * INOI Medalist
 * Web Dev MERN Stack
 
